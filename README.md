@@ -10,7 +10,7 @@ hosted on : https://live-proj.vercel.app/
 e.g., A web app that allows users to send, schedule, and manage cold outreach email campaigns efficiently.
 
 4. Tech Stack:
-e.g., Next.js, React, Node.js, Express, MongoDB, Tailwind CSS, TypeScript
+e.g: React, Node.js, Express, Tailwind CSS, TypeScript
 
 5. Key Features:
 e.g.,
