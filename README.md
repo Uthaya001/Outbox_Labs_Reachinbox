@@ -1,6 +1,7 @@
-1. Project Name:
+1. Project Name:ReachInbox Clone / Outbox Labs
+
 hosted on : https://live-proj.vercel.app/
-e.g., ReachInbox Clone / Outbox Labs
+
 
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1zmP2sRRXu52wNlYkrhbXKatNtNqD_lW9/view?usp=sharing)
 
