@@ -2,7 +2,8 @@
 hosted on : https://live-proj.vercel.app/
 e.g., ReachInbox Clone / Outbox Labs
 
-<iframe src="<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WQ7C_DW3sV8?si=PnUq5xHRaZ60hJNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" height="360" allow="autoplay"></iframe>
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1zmP2sRRXu52wNlYkrhbXKatNtNqD_lW9/view?usp=sharing)
+
 
 3. Description (what it does):
 e.g., A web app that allows users to send, schedule, and manage cold outreach email campaigns efficiently.
